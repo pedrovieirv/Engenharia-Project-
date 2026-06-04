@@ -161,6 +161,7 @@ Ao iniciar o programa, você verá um menu de login.
 
 | 💼 Integrante |
 |---------------|
-| 👨‍💻 **Gabriel de Menezes Sousa** |
+| 👨‍💻 **Iara Raquel ** |
 | 👨‍💻 **Pedro Augusto Vieira da Silva** |
-| 👨‍💻 **Brendo Duarte Bezerra** |
+| 👨‍💻 **Davi Gabriel ** |
+| 👨‍💻 **João Carlos ** |
